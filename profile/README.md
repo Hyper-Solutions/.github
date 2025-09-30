@@ -75,11 +75,11 @@ We provide official SDKs with helper functions and easy integration for popular 
 
 <div align="center">
 
-| Language | Package | Installation |
-|----------|---------|-------------|
-| **JavaScript/TypeScript** | [`hyper-sdk-js`](https://github.com/Hyper-Solutions/hyper-sdk-js) | `npm install hyper-sdk-js` |
-| **Python** | [`hyper-sdk`](https://github.com/Hyper-Solutions/hyper-sdk-python) | `pip install hyper-sdk` |
-| **Go** | [`hyper-sdk-go`](https://github.com/Hyper-Solutions/hyper-sdk-go) | `go get github.com/Hyper-Solutions/hyper-sdk-go/v2` |
+| Language | Package                                                                           | Installation |
+|----------|-----------------------------------------------------------------------------------|-------------|
+| **JavaScript/TypeScript** | [`hyper-sdk-js`](https://github.com/Hyper-Solutions/hyper-sdk-js)                 | `npm install hyper-sdk-js` |
+| **Python** | [`hyper-sdk`](https://github.com/Hyper-Solutions/hyper-sdk-py)                    | `pip install hyper-sdk` |
+| **Go** | [`hyper-sdk-go`](https://github.com/Hyper-Solutions/hyper-sdk-go)                 | `go get github.com/Hyper-Solutions/hyper-sdk-go/v2` |
 | **Playwright Extension** | [`hyper-sdk-playwright`](https://github.com/Hyper-Solutions/hyper-sdk-playwright) | `npm install hyper-sdk-playwright` |
 
 </div>
